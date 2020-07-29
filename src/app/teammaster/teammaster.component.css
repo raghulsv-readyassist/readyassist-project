@@ -1,0 +1,10 @@
+.content{
+    margin-top: 150px;
+}
+.list{
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 100%;
+    
+    border-left: solid black;
+}
